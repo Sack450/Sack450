@@ -14,5 +14,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sack450&theme=dark-smoky)](https://git.io/streak-stats)
 
-![Most Used Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sack450&layout=compact)
+
 

@@ -1,6 +1,6 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am **Isack Chazari (Sack)**
 # 💫 About Me:
-🔭 Actualmente trabajando en: Proyectos con microcontroladores ESP32 y desarrollo web (Frontend/Backend).<br>🌱 Aprendiendo: Profundizando en sistemas operativos, gestión de memoria y scripting avanzado en Blender.<br>👯 Me gusta colaborar en: Proyectos de código abierto, especialmente aquellos que involucren C++, Python o electrónica.<br>💬 Pregúntame sobre: Análisis de circuitos, programación de sistemas o cómo configurar Arch Linux.<br>📫 Cómo contactarme: isackchazari@gmail.com<br>⚡ Dato curioso: Si no estoy programando, probablemente esté ajustando algo en mi setup o simplemente jugando.
+🔭 Currently working on: ESP32 microcontroller projects and web development (Frontend/Backend).<br>🌱 Learning: Deepening my knowledge of operating systems, memory management, and advanced scripting in Blender.<br>👯 I enjoy collaborating on: Open-source projects, especially those involving C++, Python, or electronics.<br>💬 Ask me about: Circuit analysis, systems programming, or how to set up Arch Linux.<br>📫 How to contact me: isackchazari@gmail.com<br>⚡ Fun fact: If I’m not programming, I’m probably tweaking my setup or just gaming.
 
 
 ## 🌐 Socials:
